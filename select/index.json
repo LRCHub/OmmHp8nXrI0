@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Secret of my heart",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-05T09:29:18.915510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Secret of my heart",
+      "artist": "倉木麻衣",
+      "has_synced": true,
+      "path": "select/01_Secret_of_my_heart_倉木麻衣.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Secret of my heart",
+      "artist": "倉木麻衣",
+      "has_synced": true,
+      "path": "select/02_Secret_of_my_heart_倉木麻衣.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Secret of my heart",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/03_Secret_of_my_heart_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Secret of my heart",
+      "artist": "Mai Kuraki",
+      "has_synced": true,
+      "path": "select/04_Secret_of_my_heart_Mai_Kuraki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Secret of my heart",
+      "artist": "倉木麻衣 (Mai Kuraki)",
+      "has_synced": true,
+      "path": "select/05_Secret_of_my_heart_倉木麻衣_(Mai_Kuraki).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Song -secret of my heart-",
+      "artist": "Shion",
+      "has_synced": false,
+      "path": "select/06_Last_Song_-secret_of_my_heart-_Shion.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Secret of my heart",
+      "artist": "Mai Kuraki",
+      "has_synced": true,
+      "path": "select/07_Secret_of_my_heart_Mai_Kuraki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Secret Of My Heart [en 9]",
+      "artist": "Mai Kuraki",
+      "has_synced": true,
+      "path": "select/08_Secret_Of_My_Heart_[en_9]_Mai_Kuraki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Secret of My Heart (From Detective Conan)",
+      "artist": "Shiroku",
+      "has_synced": false,
+      "path": "select/09_Secret_of_My_Heart_(From_Detective_Conan)_Shiroku.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Secret of my heart (instrumental)",
+      "artist": "仓木麻衣",
+      "has_synced": true,
+      "path": "select/10_Secret_of_my_heart_(instrumental)_仓木麻衣.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secret of my heart",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_Secret_of_my_heart_棗いつき.txt"
+    }
+  ]
+}
